@@ -514,8 +514,57 @@
         </div>        
       </div>
     </section>
+    <section class="BullPoi">
+      <div class="section-title">
+        <h2>Tests & Procedures to diagnose Spine Diseases</h2>
+      </div>
+      <div class="container">
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Autoimmune spine disease screening</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Bone density test</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>CT scan</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Electromyography (EMG)</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Inflammatory spine disease screening</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Intraoperative neurophysiologic monitoring</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>MRI</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Myelogram</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Nerve conduction studies</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Osteoporosis screening</p></div>
 
-    <section class="OffLoc">
+        <hr>
+
+        <h4>What to expect at your doctor's appointment?</h4>
+        <h5>Initial Appointment</h5>
+        <p>For your initial appointment please arrive 15 minutes before your scheduled appointment. This will allow us sufficient time to complete all of the necessary paperwork.</p>
+
+        <div class="row">
+          <div class="col-sm-6">
+            <div class="txpad">
+              <p>Please complete the necessary paperwork for new patients.</p>
+              <p><b>New patients are requested to bring:</b></p>
+              <ul>
+                <li><p>All pertinent medical records, x-rays, and referral paperwork.</p></li>
+                <li><p>A completed copy of the new patient information sheets mailed to all new patients.</p></li>
+                <li><p>Please bring these completed forms to the office at the time of your first visit, do not mail them. Completion of the necessary paperwork prior to your appointment date will increase the efficiency of the visit.</p></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <div><img src="assets/img/docapt.jpeg" alt="img"></div>
+          </div>
+        </div>
+        <p><b>All patients are requested to:</b></p>
+        <ul>
+          <li><p>Present all current insurance card(s) at each visit.</p></li>
+          <li><p>Obtain any required insurance referrals depending on plan.</p></li>
+          <li><p>Please dress so that your injury area can be most easily examined and/or x-rayed. For example, wear shorts if you visit for a knee problem, etc.</p></li>
+        </ul><br>
+        <p>To cancel an appointment, please let us know at least 24 hours in advance so we can give that time to another patient.</p>
+        <p class="MarBtm">We understand that your time is valuable, and we make every effort to run on time; however, emergencies occur that cause schedule delays. We apologize in advance if we keep you waiting.</p>
+        <hr>
+      </div>      
+    </section>
+
+    <section class="OffLoc padt0">
       <div class="section-title">
         <h2>Our office locations</h2>
       </div>
