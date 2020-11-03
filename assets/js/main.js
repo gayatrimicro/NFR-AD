@@ -52,6 +52,31 @@
     }
   });
 
+  /*--------------------------*/
+    // Smooth scroll for the footer menu and links with .scrollto classes
+  
+  $(document).on('click', '.footer-links a', function(e) {
+    if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+      e.preventDefault();
+      var target = $(this.hash);
+      if (target.length) {
+
+        var scrollto2 = target.offset().top - scrolltoOffset;
+
+        if ($(this).attr("href") == '#header') {
+          scrollto2 = 0;
+        }
+
+        $('html, body').animate({
+          scrollTop: scrollto2
+        }, 1500, 'easeInOutExpo');
+       
+      }
+    }
+  });
+
+  /*--------------------------*/
+
   // Activate smooth scroll on page load with hash links in the url
   $(document).ready(function() {
     if (window.location.hash) {

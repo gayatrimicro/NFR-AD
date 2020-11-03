@@ -52,12 +52,12 @@
 
           <nav class="nav-menu d-none d-lg-block">
             <ul>
-              <li class="active"><a href="index.html">Home</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#services">Conditions</a></li>
-              <li><a href="#portfolio">Treatments</a></li>
-              <li><a href="#team">Doctors</a></li>
-              <li><a href="#team">Facilities</a></li>
+              <li class="active"><a href="index.php">Home</a></li>
+              <li><a href="#testimonials">Testimonials</a></li>
+              <li><a href="#pricing">Conditions</a></li>
+              <li><a href="#services">Why Choose Us</a></li>
+              <li><a href="#profdr">Dr. Masel</a></li>
+              <li><a href="#Diagnosis">Diagnostic Tests</a></li>
               <!-- <li class="drop-down"><a href="">Drop Down</a>
                 <ul>
                   <li><a href="#">Drop Down 1</a></li>
@@ -75,7 +75,7 @@
                   <li><a href="#">Drop Down 4</a></li>
                 </ul>
               </li> -->
-              <li><a href="#contact">Contact Us</a></li>
+              <li><a href="#Loccon">Our Locations</a></li>
 
             </ul>
           </nav><!-- .nav-menu -->
@@ -107,7 +107,7 @@
         
       </div>
       <div>
-        <img src="assets/img/slid1.jpg" alt="" class="Bag1">
+        <img src="assets/img/slid3.jpg" alt="" class="Bag1">
         <div class="TxtPos">
           <h1>Conditions treated: Fibromyalgia, Lower Back Pain & more.</h1>
           <div><a href="tel:(469)-545-8645" class="btn-get-started scrollto pulse1">Call now (469)-545-8645</a></div>
@@ -152,7 +152,7 @@
     <span class="helper"></span>
     <div class="PopDes">
         <div class="popupCloseButton">&times;</div>
-        <img src="http://spacegm.com/frisco-spine/assets/images/tick.png" alt="tick">
+        <img src="assets/img/tick.png" alt="tick">
         <h3>Thank you for enquiry !!!</h3>
         <p>One of our team member will contact you soon.</p>
     </div>
@@ -224,9 +224,9 @@
                 <li class="bullet-checkmark">Arthritis</li>
                 <li class="bullet-checkmark">Spina Bifida</li>
               </ul>
-              <div class="btn-wrap">
+              <!-- <div class="btn-wrap">
                 <a href="#" class="btn-buy">Learn more</a>
-              </div>
+              </div> -->
             </div>
           </div>
 
@@ -248,9 +248,9 @@
                 <li class="bullet-checkmark">Paget’s Disease of the Bone</li>
                 <li class="bullet-checkmark">Hip Fractures</li>
             </ul>
-              <div class="btn-wrap">
+              <!-- <div class="btn-wrap">
                 <a href="#" class="btn-buy">Learn more</a>
-              </div>
+              </div> -->
             </div>
           </div>
 
@@ -419,7 +419,7 @@
 
         </div>
 
-        <div class="text-center"><button class="Lern">Learn more</button></div>
+        
 
       </div>
     </section><!-- End Services Section -->
@@ -464,7 +464,7 @@
       </div>
     </section> --><!-- End Features Section -->
 
-    <section class="pad360">
+    <section class="pad360" id="profdr">
       <div class="container">
         <div class="row">
           <div class="col-sm-5">
@@ -505,7 +505,7 @@
       </div>      
     </section>
 
-    <section class="pad_0">
+    <section class="pad_0" id="facil">
       <div class="he35">
         <img src="assets/img/doctor-banner.jpg" alt="doctor-banner">
         <div class="hetxt">          
@@ -514,7 +514,7 @@
         </div>        
       </div>
     </section>
-    <section class="BullPoi">
+    <section class="BullPoi" id="Diagnosis">
       <div class="section-title">
         <h2>Tests & Procedures to diagnose Spine Diseases</h2>
       </div>
@@ -564,7 +564,7 @@
       </div>      
     </section>
 
-    <section class="OffLoc padt0">
+    <section class="OffLoc padt0" id="Loccon">
       <div class="section-title">
         <h2>Our office locations</h2>
       </div>
@@ -987,8 +987,10 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
 
       </div>
     </section> --><!-- End Contact Section -->
+    <div class="text-center secFixApp back-to-top"><a class="Lern">Schedule an Appointment</a></div>
 
   </main><!-- End #main -->
+
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
@@ -1007,28 +1009,22 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
               <strong>Phone:</strong> <a href="tel:(469)-545-8645" class="Cwht">(469)-545-8645</a></p>
           </div>
 
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>NOW FInd Relief</h4>
+          <div class="col-lg-3 col-md-6 footer-links marb0xs">
+            <h4></h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About Us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Doctors</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Facilities</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Contact Us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="index.php">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#testimonials">Testimonial</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#pricing">Conditions</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Why Choose Us</a></li>
             </ul>
           </div>
 
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>TREATMENTS</h4>
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4></h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Spine</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Pain</a></li>
-            </ul>
-          </div>
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>CONDITIONS</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Spine</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Pain</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#profdr">About Dr. Masel</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#Diagnosis">Diagnostic Test</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#Loccon">Our Locations</a></li>
             </ul>
           </div>
 
@@ -1047,22 +1043,22 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
       <div class="copyright-wrap d-md-flex py-4">
         <div class="mr-md-auto text-center text-md-left">
           <div class="copyright">
-            © <strong><span> 2020 Now Find Relief </span></strong>. <a href="" class="Cwht">Privacy Policy</a>
+            © <strong><span> 2020 Now Find Relief </span></strong>. <!-- <a href="" class="Cwht">Privacy Policy</a> -->
           </div>
           <div class="credits">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/techie-free-skin-bootstrap-3/ -->
-            Designed by <a href="https://bootstrapmade.com/">Ibridge Digital</a>
+            Designed by <a href="https://ibridgedigital.com/">Ibridge Digital</a>
           </div>
         </div>
         <div class="social-links text-center text-md-right pt-3 pt-md-0">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+          <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
           <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a> -->
         </div>
       </div>
 
