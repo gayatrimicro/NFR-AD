@@ -1019,7 +1019,7 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4></h4>
+            <h4 class="marb0xs"></h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#profdr">About Dr. Masel</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#Diagnosis">Diagnostic Test</a></li>
