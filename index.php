@@ -1002,9 +1002,8 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
           <div class="col-lg-3 col-md-6 footer-contact">
             <h3><img src="https://nowfindrelief.com/wp-content/uploads/2018/12/logo-white.png" alt=""></h3>
             <p>
-              13988 Diplomat Drive <br>
-              Suite 100A<br>
-              Farmers Branch, <br>
+              13988 Diplomat Drive, <br>
+              Suite 100 Farmers Branch, <br>
               Texas 75234 <br><br>
               <strong>Phone:</strong> <a href="tel:(469)-545-8645" class="Cwht">(469)-545-8645</a></p>
           </div>
