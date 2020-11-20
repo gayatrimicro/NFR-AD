@@ -94,7 +94,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
           </nav><!-- .nav-menu -->
 
-          <a href="tel:(469)-545-8645" class="get-started-btn scrollto"><span class="hid">Call Now  </span>(469)-545-8645</a>
+          <a href="tel:214-475-6078" class="get-started-btn scrollto"><span class="hid">Call Now  </span>214-475-6078</a>
         </div>
       </div>
 
@@ -109,14 +109,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="assets/img/slid1.jpg" alt="" class="Bag1">
         <div class="TxtPos">
           <h1>Spine Specialists in Texas <br>Be Free of Chronic Back Pain.</h1>
-          <div><a href="tel:(469)-545-8645" class="btn-get-started scrollto pulse1">Call now (469)-545-8645</a></div>
+          <div><a href="tel:214-475-6078" class="btn-get-started scrollto pulse1">Call now 214-475-6078</a></div>
         </div>      
       </div>
       <div>
         <img src="assets/img/slid2.jpg" alt="" class="Bag1">
         <div class="TxtPos">
           <h1>For a Pain-free Life, Schedule a Consultation Today</h1>
-          <div><a href="tel:(469)-545-8645" class="btn-get-started scrollto pulse1">Call now (469)-545-8645</a></div>
+          <div><a href="tel:214-475-6078" class="btn-get-started scrollto pulse1">Call now 214-475-6078</a></div>
         </div>
         
       </div>
@@ -124,7 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="assets/img/slid3.jpg" alt="" class="Bag1">
         <div class="TxtPos">
           <h1>Conditions treated: Fibromyalgia, Lower Back Pain & more.</h1>
-          <div><a href="tel:(469)-545-8645" class="btn-get-started scrollto pulse1">Call now (469)-545-8645</a></div>
+          <div><a href="tel:214-475-6078" class="btn-get-started scrollto pulse1">Call now 214-475-6078</a></div>
         </div>      
       </div>
 
@@ -492,7 +492,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h4>DR. DAVID L. MASEL, MD, FAANS, FACS</h4>
                 <span class="bordCer">Board Certified, Neurosurgery.</span>
                 <p>Neurosurgery includes the diagnosis & treatment of all disorders associated with the brain, spinal cord, cerebrovascular system, and the central & peripheral nervous systems. Therefore, its an extremely delicate surgical procedure and requires expert neurosurgeons.</p>
-                 <div class="text-left"><a href="tel:(469)-545-8645" class="Lern">(469)-545-8645</a></div>
+                 <div class="text-left"><a href="tel:214-475-6078" class="Lern">214-475-6078</a></div>
               </div>
             </div>
           </div>
@@ -525,7 +525,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="assets/img/doctor-banner.jpg" alt="doctor-banner">
         <div class="hetxt">          
           <h4>We're now seeing patients in our office.</h4>
-          <div><a href="tel:(469)-545-8645" class="Lern padLe">Schedule an Appointment</a></div>
+          <div><a href="tel:214-475-6078" class="Lern padLe">Schedule an Appointment</a></div>
         </div>        
       </div>
     </section>
@@ -588,25 +588,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Farmers Branch</h5>
-              <p><b>Phone : <a href="tel:(469)-545-8645">(469)-545-8645</a></b></p>
+              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
               <p>13988 Diplomat Drive,<br> Suite 100 Farmers Branch,<br> TX 75234</p>
-              <div><a href="tel:(469)-545-8645" class="Lern">Call Us</a></div>
+              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Fort Worth</h5>
-              <p><b>Phone : <a href="tel:(469)-545-8645">(469)-545-8645</a></b></p>
+              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
               <p>3600 W 7th Street,<br> Suite A Fort Worth,<br> TX 76107</p>
-              <div><a href="tel:(469)-545-8645" class="Lern">Call Us</a></div>
+              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Plano</h5>
-              <p><b>Phone : <a href="tel:(469)-545-8645">(469)-545-8645</a></b></p>
-              <p>6001 Windhaven Pkwy<br> Suite 210 Plano,<br> TX 75097</p>
-              <div><a href="tel:(469)-545-8645" class="Lern">Call Us</a></div>
+              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
+              <p>6001 Windhaven Pkwy, <br> Suite 210 Plano,<br> TX 75097</p>
+              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
             </div>
           </div>
         </div>
@@ -615,25 +615,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Midland</h5>
-              <p><b>Phone : <a href="tel:(469)-545-8645">(469)-545-8645</a></b></p>
-              <p>4311 Andrews<br> Highway Midland,<br> TX 79703</p>
-              <div><a href="tel:(469)-545-8645" class="Lern">Call Us</a></div>
+              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
+              <p>4311 Andrews, <br> Highway Midland,<br> TX 79703</p>
+              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Ennis</h5>
-              <p><b>Phone : <a href="tel:(469)-545-8645">(469)-545-8645</a></b></p>
-              <p>802 W Lampasas<br> Street Ennis,<br> TX 75119</p>
-              <div><a href="tel:(469)-545-8645" class="Lern">Call Us</a></div>
+              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
+              <p>802 W Lampasas, <br> Street Ennis,<br> TX 75119</p>
+              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Lancaster</h5>
-              <p><b>Phone : <a href="tel:(469)-545-8645">(469)-545-8645</a></b></p>
+              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
               <p>2700 W Pleasant Run Road,<br> Suite 340 Lancaster,<br> TX 75146</p>
-              <div><a href="tel:(469)-545-8645" class="Lern">Call Us</a></div>
+              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
             </div>
           </div>
         </div>
@@ -1015,12 +1015,12 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3><img src="https://nowfindrelief.com/wp-content/uploads/2018/12/logo-white.png" alt=""></h3>
+            <h3><img src="https://nowfindrelief.com/assets/img/logo-white.png" alt=""></h3>
             <p>
               13988 Diplomat Drive, <br>
               Suite 100 Farmers Branch, <br>
               Texas 75234 <br><br>
-              <strong>Phone:</strong> <a href="tel:(469)-545-8645" class="Cwht">(469)-545-8645</a></p>
+              <strong>Phone:</strong> <a href="tel:214-475-6078" class="Cwht">214-475-6078</a></p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links marb0xs">
