@@ -1874,6 +1874,7 @@ padding-top: 0px;
   margin: 0 auto;
   left: 0;
   letter-spacing: 1px;
+  text-transform: uppercase;
 }
 .PosBxTxt{
   padding: 25px 0px;
@@ -2240,3 +2241,37 @@ input[type=checkbox]{
 .Cwht:hover{
   color: #d8d8d8;
 }
+.condi .box ul{
+  height: 430px;
+}
+.servi .Bxdb {
+    padding: 15px 35px;
+    margin-right: 42px;
+}
+.UlProf h4{
+  text-transform: uppercase;
+}
+.ulh4 h4{
+  margin-bottom: 30px;
+}
+.ulh4 ul{
+  margin-bottom: 50px;
+}
+.ulh4 ul li ul li::before{
+  content: "\f005";
+  font-size: 18px;
+  top: 0px;
+  margin-left: -33px;
+}
+.ulh4 ul li{
+  margin-bottom: 21px;
+}
+.linHei{
+  line-height: 45px;
+  font-size: 28px;
+}
+.imgb{
+  background-color: #3b3636;
+}
+
+
