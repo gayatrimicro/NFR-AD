@@ -30,16 +30,30 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   <script src="assets/vendor/jquery/jquery.min.js"></script>
-  <!-- =======================================================
-  * Template Name: Techie - v2.1.0
-  * Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T35R7VN');gtag('config', 'AW-545088070');</script>
+<!-- End Google Tag Manager -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180434357-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180434357-1');
+</script>
+ <script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-545088070/99czCLyy8-IBEMbE9YMC', 'event_callback': callback }); return false; } </script>
 </head>
 
 <body>
-
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T35R7VN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top ">
     <div class="container-fluid">
@@ -144,7 +158,8 @@
           </div>
         </div>
         <p class="Mart">By submitting this form you agree to our <a href="">Privacy Policy.</a></p>
-        <button type="submit">SUBMIT</button>
+        <!-- <button type="submit" onclick="return gtag_report_conversion('https://nowfindrelief.com/')">SUBMIT</button> -->
+        <button type="submit" onclick="setTimeout(function(){ return gtag_report_conversion('https://nowfindrelief.com/') }, 7000);">SUBMIT</button>
       </form>
     </div>
   </div>
