@@ -41,12 +41,8 @@ Syncope, Heart calcium score, Echocardiogram, Stress test, Treadmill stress test
   <!-- Template Main CSS File -->
   <link href="../assets/css/style.css" rel="stylesheet">
   <script src="../assets/vendor/jquery/jquery.min.js"></script>
-  <!-- =======================================================
-  * Template Name: Techie - v2.1.0
-  * Template URL: https://bootstrapmade.com/techie-free-skin-bootstrap-3/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  <!-- Global site tag (gtag.js) - Google Ads: 545088070 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-545088070"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-545088070'); </script>
+  <!-- Event snippet for Submit lead form - Oct 2020 - Leads conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. --> <script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-545088070/99czCLyy8-IBEMbE9YMC', 'event_callback': callback }); return false; } </script>
 </head>
 
 <body>
@@ -127,7 +123,7 @@ Syncope, Heart calcium score, Echocardiogram, Stress test, Treadmill stress test
           <input type="text" class="frm_inp" placeholder="Email Address" name="email" required>
         </div>
         <p class="Mart">By submitting this form you agree to our <a href="">Privacy Policy.</a></p>
-        <button type="submit">SUBMIT</button>
+        <button type="submit" onclick="setTimeout(function(){ return gtag_report_conversion('https://nowfindrelief.com/cardiology') }, 7000);">SUBMIT</button>
       </form>
     </div>
   </div>
@@ -501,6 +497,17 @@ Syncope, Heart calcium score, Echocardiogram, Stress test, Treadmill stress test
               <h5>Lancaster</h5>
               <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
               <p>2700 W Pleasant Run Road,<br> Suite 340 Lancaster,<br> TX 75146</p>
+              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="BxLoc">
+              <h5>Hillsboro</h5>  
+              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
+              <p>117 Jane Lane, <br> Hillsboro,<br> TX 76645</p>
               <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
             </div>
           </div>

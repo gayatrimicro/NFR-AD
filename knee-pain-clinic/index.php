@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>NOW Find Relief - Consult Expert Neurologists for Spine Disorders in Texas</title>
-  <meta content="Get a second opinion from expert spine specialists near you. Services: Fibromyalgia, Sciatica, Scoliosis, Herniated Disc, Spinal Stenosis, Spinal tumors . Call us today." name="descriptison">
+  <title>Get rid of knee pain today | Knee Pain Clinic</title>
+  <meta content="Get a second opinion from expert neurologists near you. Services: Traumatic Brain Injuries, Stroke Treatment, Brain Tumor, Concussion management. Call us today." name="descriptison">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
@@ -17,19 +17,19 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="../assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="../assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="../assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <link href="../assets/css/style.css" rel="stylesheet">
+  <script src="../assets/vendor/jquery/jquery.min.js"></script>
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -48,9 +48,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
  <script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-545088070/99czCLyy8-IBEMbE9YMC', 'event_callback': callback }); return false; } </script>
  <style type="text/css">
-   
-   .condi .box ul {
-    height: 600px;
+   .pricing ul {
+    padding: 0;
+    list-style: none;
+    color: #444444;
+    text-align: center;
+    line-height: 20px;
+    font-size: 14px;
+    height: 650px;
+    padding: 0px 40px;
+}
+.condi .box ul {
+    height: 280px;
 }
  </style>
 </head>
@@ -66,9 +75,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
       <div class="row justify-content-center">
         <div class="col-xl-9 d-flex align-items-center">
-          <h1 class="logo mr-auto"><a href="index.html"><img src="assets/img/logo.png" alt=""></a></h1>
+          <h1 class="logo mr-auto"><a href="index.html"><img src="../assets/img/logo.png" alt=""></a></h1>
           <!-- Uncomment below if you prefer to use an image logo -->
-          <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+          <!-- <a href="index.html" class="logo mr-auto"><img src="../assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
           <nav class="nav-menu d-none d-lg-block">
             <ul>
@@ -112,24 +121,24 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section id="hero" class="d-flex align-items-center padt_b">
 
       <div>
-        <img src="assets/img/slid1.jpg" alt="" class="Bag1">
+        <img src="../assets/img/slid1.jpg" alt="" class="Bag1">
         <div class="TxtPos">
-          <h1>Spine Specialists in Texas <br>Be Free of Chronic Back Pain.</h1>
+          <h1>Knee Pain Specialists in Dallas, TX</h1>
           <div><a href="tel:214-475-6078" class="btn-get-started scrollto pulse1">Call now 214-475-6078</a></div>
         </div>      
       </div>
       <div>
-        <img src="assets/img/slid2.jpg" alt="" class="Bag1">
+        <img src="../assets/img/slid2.jpg" alt="" class="Bag1">
         <div class="TxtPos">
-          <h1>For a Pain-free Life, Schedule a Consultation Today</h1>
+          <h1>Schedule a <br>Consultation Today</h1>
           <div><a href="tel:214-475-6078" class="btn-get-started scrollto pulse1">Call now 214-475-6078</a></div>
         </div>
         
       </div>
       <div>
-        <img src="assets/img/slid3.jpg" alt="" class="Bag1">
+        <img src="../assets/img/slid3.jpg" alt="" class="Bag1">
         <div class="TxtPos">
-          <h1>Conditions treated: Fibromyalgia, Lower Back Pain & more.</h1>
+          <h1>Be Free of Knee Pain.<br> Find lasting pain relief today</h1>
           <div><a href="tel:214-475-6078" class="btn-get-started scrollto pulse1">Call now 214-475-6078</a></div>
         </div>      
       </div>
@@ -173,7 +182,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <span class="helper"></span>
     <div class="PopDes">
         <div class="popupCloseButton">&times;</div>
-        <img src="assets/img/tick.png" alt="tick">
+        <img src="../assets/img/tick.png" alt="tick">
         <h3>Thank you for enquiry !!!</h3>
         <p>One of our team member will contact you soon.</p>
     </div>
@@ -191,7 +200,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             // alert(formData);
          if ($('.name').val() != "" && $('.symptoms').val() != "" && $('.zipcode').val() != "" && $('.phone').val() != "" && $('.email').val() != "" && $('.spine').val() != "" && $('.joints').val() != "") {
          $.ajax({
-                              url:'request.php',
+                              url:'../request.php',
                               type:'POST',
                               data:formData,
                               processData: false,
@@ -223,7 +232,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h1 class="linHei">Conditions we treat at our cardiology care clinic in Texas. <br>Call <img src="assets/img/NowRelief_blue.png" alt=""></h1>
+          <h1 class="linHei">Conditions we treat at our Knee Pain care clinic in Texas. <br>Call <img src="../assets/img/NowRelief_blue.png" alt=""></h1>
         </div>
 
         <div class="row">
@@ -231,19 +240,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
               <ul>
-                <li class="bullet-checkmark">Fibromyalgia</li>
-                <li class="bullet-checkmark">Sciatica</li>
-                <li class="bullet-checkmark">Scoliosis</li>
-                <li class="bullet-checkmark">Osteopenia</li>
-                <li class="bullet-checkmark">Osteoporosis</li>
-                <li class="bullet-checkmark">Herniated Disc/Slipped Disc</li>
-                <li class="bullet-checkmark">Spinal Stenosis</li>
-                <li class="bullet-checkmark">Lower Back Pain</li>
-                <li class="bullet-checkmark">Whiplash</li>
-                <li class="bullet-checkmark">Chronic Neck Pain</li>
-                <li class="bullet-checkmark">Rheumatoid Arthritis</li>
-                <li class="bullet-checkmark">Arthritis</li>
-                <li class="bullet-checkmark">Spina Bifida</li>
+                <li class="bullet-checkmark">Knee Pain</li>
+                <li class="bullet-checkmark">Anterior Knee Pain</li>
+                <li class="bullet-checkmark">Runner’s Knee</li>
+                <li class="bullet-checkmark">Osgood Schlatter Disease</li>
+                <li class="bullet-checkmark">Chondromalacia Patella</li>
+                <li class="bullet-checkmark">Jumper’s Knee</li>
+                <li class="bullet-checkmark">Bursitis</li>
+                <li class="bullet-checkmark">Baker’s Cyst</li>
+                <li class="bullet-checkmark">Iliotibial Band Syndrome</li>
+                <li class="bullet-checkmark">Lateral Patellar Compression Syndrome</li>
+                <li class="bullet-checkmark">Osteochondritis Dissecans</li>
+                <li class="bullet-checkmark">Shin Splints</li>
+                <li class="bullet-checkmark">Knee Injury</li>
+                <li class="bullet-checkmark">Unstable Knee</li>
+                <li class="bullet-checkmark">Goosefoot Bursitis of the Knee</li>
+                <li class="bullet-checkmark">Knee Sprain</li>
+                <li class="bullet-checkmark">ACL Tears</li>
+                <li class="bullet-checkmark">MCL Tears</li>
+                <li class="bullet-checkmark">MCL Sprain</li>
               </ul>
               <!-- <div class="btn-wrap">
                 <a href="#" class="btn-buy">Learn more</a>
@@ -254,20 +269,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-6 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
             <div class="box">
               <ul>
-                <li class="bullet-checkmark">Spondylosis</li>
-                <li class="bullet-checkmark">Bone Cancer</li>
-                <li class="bullet-checkmark">Osteomyelitis</li>
-                <li class="bullet-checkmark">Ganglion Cysts</li>
-                <li class="bullet-checkmark">Degenerative Disc Disease</li>
-                <li class="bullet-checkmark">Carpal Tunnel Syndrome</li>
-                <li class="bullet-checkmark">Kyphosis</li>
-                <li class="bullet-checkmark">Shoulder Pain</li>
-                <li class="bullet-checkmark">Lumbar Radiculopathy</li>
-                <li class="bullet-checkmark">Foot Pain and Problems</li>
-                <li class="bullet-checkmark">Bursitis</li>
-                <li class="bullet-checkmark">Spinal Tumors</li>
-                <li class="bullet-checkmark">Paget’s Disease of the Bone</li>
-                <li class="bullet-checkmark">Hip Fractures</li>
+                <li class="bullet-checkmark">Meniscal Injuries</li>
+                <li class="bullet-checkmark">Meniscal Tears</li>
+                <li class="bullet-checkmark">Ligament Injuries</li>
+                <li class="bullet-checkmark">Multiligament Instability</li>
+                <li class="bullet-checkmark">Knee Arthritis</li>
+                <li class="bullet-checkmark">Patellofemoral Dislocation</li>
+                <li class="bullet-checkmark">PCL Injuries</li>
+                <li class="bullet-checkmark">Chondral (Articular Cartilage Defects)</li>
+                <li class="bullet-checkmark">Patellar Instability</li>
+                <li class="bullet-checkmark">Patellofemoral Instability</li>
+                <li class="bullet-checkmark">Patella Fracture</li>
+                <li class="bullet-checkmark">Recurrent Patella Dislocation</li>
+                <li class="bullet-checkmark">Quadriceps Tendon Rupture</li>
+                <li class="bullet-checkmark">Patella Tendon Rupture</li>
+                <li class="bullet-checkmark">Lateral Meniscus Syndrome</li>
+                <li class="bullet-checkmark">Medial Meniscus Syndrome</li>
+                <li class="bullet-checkmark">Tibial Eminence Spine Avulsions</li>
+                <li class="bullet-checkmark">Osteonecrosis of the Knee</li>
+                <li class="bullet-checkmark">Knee Angular Deformities</li>
             </ul>
               <!-- <div class="btn-wrap">
                 <a href="#" class="btn-buy">Learn more</a>
@@ -288,7 +308,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="150">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="../assets/img/about.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right">
             <h3>Voluptatem dignissimos provident quasi corporis</h3>
@@ -351,7 +371,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-blue">
               <div class="icon">
-                <img src="assets/img/service-time.png" alt="">
+                <img src="../assets/img/service-time.png" alt="">
               </div>
               <h4><a href="">Convenient Hours</a></h4>
             </div>
@@ -360,7 +380,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box iconbox-orange ">
               <div class="icon">
-                  <img src="assets/img/service-claim.png" alt="">
+                  <img src="../assets/img/service-claim.png" alt="">
               </div>
               <h4><a href="">Easy Claim</a></h4>
             </div>
@@ -369,7 +389,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box iconbox-pink">
               <div class="icon">
-                <img src="assets/img/Service1.png" alt="">
+                <img src="../assets/img/Service1.png" alt="">
               </div>
               <h4><a href="">Minimally Invasive</a></h4>
             </div>
@@ -378,7 +398,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box iconbox-yellow">
               <div class="icon">
-                <img src="assets/img/Service2-1.png" alt="">
+                <img src="../assets/img/Service2-1.png" alt="">
               </div>
               <h4><a href="">Pain Management</a></h4>
             </div>
@@ -387,7 +407,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box iconbox-red">
               <div class="icon">
-                <img src="assets/img/Service3-1.png" alt="">
+                <img src="../assets/img/Service3-1.png" alt="">
               </div>
               <h4><a href="">MRI Services</a></h4>
             </div>
@@ -396,7 +416,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box iconbox-teal">
               <div class="icon">
-                <img src="assets/img/Service4-1.png" alt="">
+                <img src="../assets/img/Service4-1.png" alt="">
               </div>
               <h4><a href="">Quick Diagnosis</a></h4>
             </div>
@@ -405,7 +425,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box iconbox-teal">
               <div class="icon">
-                <img src="assets/img/Service5-1.png" alt="">
+                <img src="../assets/img/Service5-1.png" alt="">
               </div>
               <h4><a href="">Board Certified Doctors</a></h4>
             </div>
@@ -414,7 +434,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box iconbox-teal">
               <div class="icon">
-                <img src="assets/img/Service6-1.png" alt="">
+                <img src="../assets/img/Service6-1.png" alt="">
               </div>
               <h4><a href="">Non-Surgical Treatments</a></h4>
             </div>
@@ -423,7 +443,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box iconbox-teal">
               <div class="icon">
-                <img src="assets/img/Service7-1.png" alt="">
+                <img src="../assets/img/Service7-1.png" alt="">
               </div>
               <h4><a href="">Outpatient Treatment</a></h4>
             </div>
@@ -432,7 +452,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box iconbox-teal">
               <div class="icon">
-                <img src="assets/img/Service8-1.png" alt="">
+                <img src="../assets/img/Service8-1.png" alt="">
               </div>
               <h4><a href="">Fast Recovery</a></h4>
             </div>
@@ -478,7 +498,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
           <div class="image col-lg-6 order-1 order-lg-2 " data-aos="zoom-in" data-aos-delay="100">
-            <img src="assets/img/features.svg" alt="" class="img-fluid">
+            <img src="../assets/img/features.svg" alt="" class="img-fluid">
           </div>
         </div>
 
@@ -491,7 +511,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-sm-5">
             <div class="in_proBox">
               <div class="proboximg">
-                <img src="assets/img/dav0.jpg" alt="dav0">
+                <img src="../assets/img/dav0.jpg" alt="dav0">
                 <div class="Pospst">NEUROSURGEON</div>
               </div>
               <div class="PosBxTxt">
@@ -516,7 +536,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li>
                   <h4>RECIPIENT OF CASTLE CONNOLLY REGIONAL TOP DOCTORS AWARD</h4>
                   <p>Castle Connolly is America's trusted source for the identification of Top Doctors. Dr. Masel has received this prestigious award and recognition by their physician-led research team.</p>
-                  <img src="assets/img/castle.png" alt="castle">
+                  <img src="../assets/img/castle.png" alt="castle">
                   <p class="Mart10">Be sure to receive extensive expert medical attention and care from Dr David Masel. Book an appointment today.</p>
                 </li>
               </ul>
@@ -528,7 +548,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <section class="pad_0" id="facil">
       <div class="he35">
-        <img src="assets/img/doctor-banner.jpg" alt="doctor-banner">
+        <img src="../assets/img/doctor-banner.jpg" alt="doctor-banner">
         <div class="hetxt">          
           <h4>We're now seeing patients in our office.</h4>
           <div><a href="tel:214-475-6078" class="Lern padLe">Schedule an Appointment</a></div>
@@ -537,77 +557,73 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="BullPoi" id="Diagnosis">
       <div class="section-title">
-        <h2>Tests & Procedures to diagnose Spine Diseases</h2>
+        <h2>Tests & Procedures to diagnose Brain Diseases</h2>
       </div>
       <div class="container">
-        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Autoimmune spine disease screening</p></div>
-        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Bone density test</p></div>
         <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>CT scan</p></div>
-        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Electromyography (EMG)</p></div>
-        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Inflammatory spine disease screening</p></div>
-        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Intraoperative neurophysiologic monitoring</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Electroencephalogram (EEG)</p></div>
         <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>MRI</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Electromyography (EMG)</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Nerve conduction velocity (NCV)</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Positron emission tomography (PET)</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Arteriogram (angiogram)</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Spinal tap (lumbar puncture)</p></div>
         <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Myelogram</p></div>
-        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Nerve conduction studies</p></div>
-        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Osteoporosis screening</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Neurosonography</p></div>
+        <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>Ultrasound (sonography)</p></div>
 
+      </div></section>
 
-</div>
-</section>
-
-
-
-<section id="pricing" class="pricing section-bg condi">
+      <section id="pricing" class="pricing section-bg condi">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h1 class="linHei">Spine & Back Surgery Treatments Available at our care clinic in Texas. <br>Call <img src="../assets/img/NowRelief_blue.png" alt=""></h1>
+          <h1 class="linHei">Knee Pain treatments at our care clinic in Texas. <br>Call <img src="../assets/img/NowRelief_blue.png" alt=""></h1>
         </div>
 
         <div class="row">
-          <div class="col-lg-3 col-md-3"></div>
           <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="box">
               <ul>
-                <li class="bullet-checkmark">Vertebroplasty </li>
-                <li class="bullet-checkmark">Kyphoplasty</li>
-                <li class="bullet-checkmark">Spinal laminectomy</li>
-                <li class="bullet-checkmark">Spinal decompression</li>
-                <li class="bullet-checkmark">Discectomy</li>
-                <li class="bullet-checkmark">Foraminotomy</li>
-                <li class="bullet-checkmark">Nucleoplasty (plasma disk decompression)</li>
-                <li class="bullet-checkmark">Spinal fusion</li>
-                <li class="bullet-checkmark">Artificial disk replacement</li>
-                <li class="bullet-checkmark">Interlaminar implant</li>
-                <li class="bullet-checkmark">Lateral Lumbar Interbody Fusion (LLIF)</li>
-                <li class="bullet-checkmark">Minimally Invasive Transforaminal Lumbar Interbody Fusion (MIS TLIF)</li>
-                <li class="bullet-checkmark">Minimally invasive spine surgery</li>
-                <li class="bullet-checkmark">Herniated Disc Surgery</li>
-                <li class="bullet-checkmark">Lumbar Discectomy</li>
-                <li class="bullet-checkmark">360 degree lumbar fusion</li>
+                <li class="bullet-checkmark">Pharmacological Treatment</li>
+                <li class="bullet-checkmark">Viscosupplementation</li>
+                <li class="bullet-checkmark">Cortisone Injections</li>
+                <li class="bullet-checkmark">Physiotherapy</li>
+                <li class="bullet-checkmark">Knee Arthroscopy</li>
+                <li class="bullet-checkmark">Cartilage Restoration</li>
+                <li class="bullet-checkmark">Knee Replacement & Reconstruction</li>
+                <li class="bullet-checkmark">Resurfacing</li>
                 
               </ul>
             </div>
           </div>
-          <div class="col-lg-3 col-md-3"></div>
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="box">
+              <ul>
+                
+                <li class="bullet-checkmark">Signature knee replacement</li>
+                <li class="bullet-checkmark">Autologous Chondrocyte Implantation</li>
+                <li class="bullet-checkmark">Subchondroplasty</li>
+                <li class="bullet-checkmark">Partial Meniscectomy</li>
+                <li class="bullet-checkmark">Medial Meniscus treatment</li>
+                <li class="bullet-checkmark">Knee Implants</li>
+                <li class="bullet-checkmark">Knee Arthroplasty</li>
+              </ul>
+            </div>
+          </div>
         </div>
 
       </div>
     </section><!-- End Pricing Section -->
 
 
-
-
-
-
-
-
-
-
 <section class="BullPoi" id="Diagnosis">
 <div class="container">
 
+
+
         <!-- <hr> -->
+
 
         <h4>What to expect at your doctor's appointment?</h4>
         <h5>Initial Appointment</h5>
@@ -626,7 +642,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
           <div class="col-sm-6">
-            <div><img src="assets/img/docapt.jpeg" alt="img"></div>
+            <div><img src="../assets/img/docapt.jpeg" alt="img"></div>
           </div>
         </div>
         <p><b>All patients are requested to:</b></p>
@@ -718,7 +734,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2><img src="assets/img/NowRelief_blue.png" alt=""> People who found Relief</h2>
+          <h2><img src="../assets/img/NowRelief_blue.png" alt=""> People who found Relief</h2>
         </div>
 
         <div class="owl-carousel testimonials-carousel">
@@ -729,7 +745,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 It started out as a strange pain in my leg and slowly became debilitating. Couldn't lay flat without severe pain or help around the house. I waited hoping it would take care of itself and go away but this didn't happen. A friend in Rockwall told me about NOW Find Relief. NOW Find Relief quickly scheduled an appointment with a pain management doctor who was able to diagnose my sciatica and get me feeling normal almost instantly. What a relief as this was affecting every aspect of my life.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+            <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
             <h3>Sam</h3>
             <h4>Actual &amp; Patient</h4>
           </div>
@@ -740,7 +756,7 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
               I had serious pain running down my leg and an MRI showed I had a herniated disc. I found NOW Find Relief and through them was able to get an appointment in Fort Worth, Texas within Tarrant County with a doctor who performed a surgery that had me back to work in no time. Thanks NOW!
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+            <img src="../assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
             <h3>Michael</h3>
             <h4>Actual &amp; Patient</h4>
           </div>
@@ -751,7 +767,7 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
               I slipped down some stairs and hit my head against the wall. After that my neck hurt badly when I would move it. I found NOW Find Relief and decided to give them a call. What a blessing! They scheduled me an appointment with a doctor in Dallas County who was able to get me into therapy and fix the problem. I now refer all my friends when they are in need!
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+            <img src="../assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
             <h3>Shain</h3>
             <h4>Actual &amp; Patient</h4>
           </div>
@@ -762,7 +778,7 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
               Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+            <img src="../assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
             <h3>Matt Brandon</h3>
             <h4>Freelancer</h4>
           </div>
@@ -773,7 +789,7 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
               Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-            <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+            <img src="../assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
             <h3>John Larson</h3>
             <h4>Entrepreneur</h4>
           </div> -->
@@ -807,13 +823,13 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 1</h4>
                 <p>App</p>
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -821,13 +837,13 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web 3</h4>
                 <p>Web</p>
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -835,13 +851,13 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 2</h4>
                 <p>App</p>
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -849,13 +865,13 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Card 2</h4>
                 <p>Card</p>
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -863,13 +879,13 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web 2</h4>
                 <p>Web</p>
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -877,13 +893,13 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>App 3</h4>
                 <p>App</p>
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -891,13 +907,13 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Card 1</h4>
                 <p>Card</p>
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -905,13 +921,13 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Card 3</h4>
                 <p>Card</p>
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -919,13 +935,13 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="../assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-info">
                 <h4>Web 3</h4>
                 <p>Web</p>
               </div>
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="../assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -1157,18 +1173,18 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
 
   <!-- Vendor JS Files -->
   
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-  <script src="assets/vendor/counterup/counterup.min.js"></script>
-  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/venobox/venobox.min.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="../assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="../assets/vendor/php-email-form/validate.js"></script>
+  <script src="../assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="../assets/vendor/counterup/counterup.min.js"></script>
+  <script src="../assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="../assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="../assets/vendor/venobox/venobox.min.js"></script>
+  <script src="../assets/vendor/aos/aos.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
+  <script src="../assets/js/main.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
   <script>
     $('#hero').slick({
