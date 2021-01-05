@@ -85,7 +85,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <li><a href="#testimonials">Testimonials</a></li>
               <li><a href="#pricing">Conditions</a></li>
               <li><a href="#services">Why Choose Us</a></li>
-              <li><a href="#profdr">Dr. Masel</a></li>
+              <li><a href="#profdr">Specialists</a></li>
               <li><a href="#Diagnosis">Diagnostic Tests</a></li>
               <!-- <li class="drop-down"><a href="">Drop Down</a>
                 <ul>
@@ -1120,7 +1120,7 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
           <div class="col-lg-3 col-md-6 footer-links">
             <h4 class="marb0xs"></h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#profdr">About Dr. Masel</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#profdr">Our Orthopedic Specialists</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#Diagnosis">Diagnostic Test</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#Loccon">Our Locations</a></li>
             </ul>
