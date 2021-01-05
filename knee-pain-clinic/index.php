@@ -508,38 +508,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <section class="pad360" id="profdr">
       <div class="container">
         <div class="row">
-          <div class="col-sm-5">
+          <div class="col-sm-6">
             <div class="in_proBox">
               <div class="proboximg">
-                <img src="../assets/img/dav0.jpg" alt="dav0">
-                <div class="Pospst">NEUROSURGEON</div>
+                <img src="../assets/img/fulp.jpg" alt="dav0">
+                <div class="Pospst">Orthopedic Spine and Extremities</div>
               </div>
               <div class="PosBxTxt">
-                <h4>DR. DAVID L. MASEL, MD, FAANS, FACS</h4>
-                <span class="bordCer">Board Certified, Neurosurgery.</span>
-                <p>Neurosurgery includes the diagnosis & treatment of all disorders associated with the brain, spinal cord, cerebrovascular system, and the central & peripheral nervous systems. Therefore, its an extremely delicate surgical procedure and requires expert neurosurgeons.</p>
+                <h4>Dr. Raymond Fulp, DO</h4>
+                <span class="bordCer">Orthopedic Spine and Extremities</span>
+                <p>Dr. Ray “Trey” Fulp is an Orthopedic Surgeon born and raised in Oklahoma. After graduating High School, he joined the United States Marine Corps. Upon his discharge, he attended Oklahoma Central State University for his undergraduate degree. He then attended Oklahoma State University of Osteopathic Medicine. He then was selected to Harrisburg, PA. Orthopedic Residency Program at the Osteopathic Community Hospital. He has performed fellowships at not only Shriner’s Hospital for Crippled Children and AO Traveling Spinal Deformity but Texas Back Institute as well where he also served as an attending physician supervising a team of medical students, residents, and fellows. He is board certified by the American Osteopathic Board of Orthopedic Surgery. He is a highly skilled surgeon in both Orthopedic Spine and Extremities. In the spine, he specializes in deformity, arthritis, disc pathologies, and general pain. In extremities, he specializes in Sports Medicine, General Orthopedics, Trauma, and Pediatrics. He has over 15 years’ experience as a trauma surgeon. He is bilingual, speaking fluent English and Spanish.</p>
                  <div class="text-left"><a href="tel:214-475-6078" class="Lern">214-475-6078</a></div>
               </div>
             </div>
           </div>
-          <div class="col-sm-7">
-            <div class="UlProf">
-              <ul>
-                <li>
-                  <h4>BOARD-CERTIFIED NEUROSURGEON</h4>
-                  <p>Dr. Masel is board certified in Neurosurgery.</p>
-                </li>
-                <li>
-                  <h4>PRESTIGIOUS AFFILIATIONS</h4>
-                  <p>Dr. Masel is affiliated with Baylor Scott & White Medical Center - Centennial</p>
-                </li>
-                <li>
-                  <h4>RECIPIENT OF CASTLE CONNOLLY REGIONAL TOP DOCTORS AWARD</h4>
-                  <p>Castle Connolly is America's trusted source for the identification of Top Doctors. Dr. Masel has received this prestigious award and recognition by their physician-led research team.</p>
-                  <img src="../assets/img/castle.png" alt="castle">
-                  <p class="Mart10">Be sure to receive extensive expert medical attention and care from Dr David Masel. Book an appointment today.</p>
-                </li>
-              </ul>
+
+          <div class="col-sm-6">
+            <div class="in_proBox">
+              <div class="proboximg">
+                <img src="../assets/img/Eubanks.jpg" alt="dav0">
+                <div class="Pospst">Orthopedic Surgeon</div>
+              </div>
+              <div class="PosBxTxt">
+                <h4>Dr. Aaron Eubanks, MD</h4>
+                <span class="bordCer">Orthopedic Surgeon</span>
+                <p>Dr. Eubanks specializes in the non-operative, operative, and rehabilitative treatment of various conditions of the bones, muscles, tendons, and ligaments of both adults and children. He obtained his medical degree from New Jersey Medical School in Newark, NJ. After medical school, he completed his residency at Baylor College of Medicine in Houston and his fellowship at Mississippi Sports Medicine. He began his medical career at Sarah Bush Lincoln Health Center, in Mattoon Illinois. He also served as the Team Orthopedist for Eastern Illinois University, Alcorn State University, Hinds Community College, Charleston High School, Hillcrest Christian School, and was the Assistant Team Physician for the Houston Rodeo and Houston ISD football teams. He’s a board-certified, fellowship-trained orthopedic surgeon.</p>
+                 <div class="text-left"><a href="tel:214-475-6078" class="Lern">214-475-6078</a></div>
+              </div>
             </div>
           </div>
       </div>
