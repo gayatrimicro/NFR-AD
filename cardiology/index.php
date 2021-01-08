@@ -42,7 +42,7 @@ Syncope, Heart calcium score, Echocardiogram, Stress test, Treadmill stress test
   <link href="../assets/css/style.css" rel="stylesheet">
   <script src="../assets/vendor/jquery/jquery.min.js"></script>
   <!-- Global site tag (gtag.js) - Google Ads: 545088070 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-545088070"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-545088070'); </script>
-  <!-- Event snippet for Submit lead form - Oct 2020 - Leads conversion page In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. --> <script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-545088070/99czCLyy8-IBEMbE9YMC', 'event_callback': callback }); return false; } </script>
+  
 </head>
 
 <body>
@@ -123,7 +123,8 @@ Syncope, Heart calcium score, Echocardiogram, Stress test, Treadmill stress test
           <input type="text" class="frm_inp" placeholder="Email Address" name="email" required>
         </div>
         <p class="Mart">By submitting this form you agree to our <a href="">Privacy Policy.</a></p>
-        <button type="submit" onclick="setTimeout(function(){ return gtag_report_conversion('https://nowfindrelief.com/cardiology') }, 7000);">SUBMIT</button>
+        <button type="submit">SUBMIT</button>
+        <!-- <button type="submit" onclick="setTimeout(function(){ return gtag_report_conversion('https://nowfindrelief.com/cardiology') }, 7000);">SUBMIT</button> -->
       </form>
     </div>
   </div>

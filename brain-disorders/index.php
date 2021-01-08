@@ -46,7 +46,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
   gtag('config', 'UA-180434357-1');
 </script>
- <script> function gtag_report_conversion(url) { var callback = function () { if (typeof(url) != 'undefined') { window.location = url; } }; gtag('event', 'conversion', { 'send_to': 'AW-545088070/99czCLyy8-IBEMbE9YMC', 'event_callback': callback }); return false; } </script>
  <style type="text/css">
    .pricing ul {
     padding: 0;
@@ -174,7 +173,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         <p class="Mart">By submitting this form you agree to our <a href="">Privacy Policy.</a></p>
         <!-- <button type="submit" onclick="return gtag_report_conversion('https://nowfindrelief.com/')">SUBMIT</button> -->
-        <button type="submit" onclick="setTimeout(function(){ return gtag_report_conversion('https://nowfindrelief.com/') }, 7000);">SUBMIT</button>
+        <!-- <button type="submit" onclick="setTimeout(function(){ return gtag_report_conversion('https://nowfindrelief.com/') }, 7000);">SUBMIT</button> -->
+        <button type="submit" >SUBMIT</button>
       </form>
     </div>
   </div>
