@@ -1,0 +1,83 @@
+.posR{
+	position: relative;
+	height: 500px;
+}
+.lftHdr{
+	position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: -100%;
+    background-color: #1946baa6;
+    color: #fff;
+    width: 34%;
+    height: 150px;
+    padding: 50px;
+    transition: 2s all;
+}
+.POsShp{
+	position: relative;
+	float: right;
+}
+.POsShp:after{
+	position: absolute;
+    content: "";
+    right: -150px;
+    top: -50px;
+    width: 0;
+    height: 0;
+    border-bottom: 150px solid #1946baa6;
+    border-right: 100px solid transparent;
+}
+.se1 .box {
+    padding: 50px 20px;
+    background: #fff;
+    text-align: left;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+}
+.se1 h2{
+	margin-bottom: 10px;
+}
+.se1 img{
+	width: 100%;
+}
+.se2 h2{
+	margin-bottom: 30px;
+}
+.padb40{
+	padding-bottom: 70px;
+}
+.pad40{
+	padding: 40px 0px 40px 0px;
+}
+.pad40 p{
+	margin-bottom: 0px;
+}
+@media(min-width: 1200px) and (max-width: 1500px){
+.lftHdr h1{
+	font-size: 33px;
+}
+.lftHdr{
+    width: 42%;
+}
+}
+@media(min-width: 320px) and (max-width: 767px){
+.mart0360{
+	margin-top: 0px !important;
+}
+.pad360{
+	padding-bottom: 0px;
+}
+.lftHdr{
+	width: 100%;
+	padding: 30px;
+}
+.POsShp{
+	display: none;
+}
+.lftHdr h1{
+	font-size: 28px;
+}
+}
