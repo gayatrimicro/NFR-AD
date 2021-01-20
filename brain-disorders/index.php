@@ -232,7 +232,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h1 class="linHei">Conditions we treat at our cardiology care clinic in Texas. <br>Call <img src="../assets/img/NowRelief_blue.png" alt=""></h1>
+          <h1 class="linHei">Conditions we treat at our spine care clinic in Texas. <br>Call <img src="../assets/img/NowRelief_blue.png" alt=""></h1>
         </div>
 
         <div class="row">

@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Get rid of knee pain today | Knee Pain Clinic</title>
-  <meta content="Get a second opinion from expert neurologists near you. Services: Traumatic Brain Injuries, Stroke Treatment, Brain Tumor, Concussion management. Call us today." name="descriptison">
+  <meta content="Common knee problems include sprained or strained ligaments, cartilage tears, tendonitis and arthritis. For expert knee pain treatment by orthopedic surgeons. Call 214-475-6078 today." name="descriptison">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
@@ -128,7 +128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>      
       </div>
       <div>
-        <img src="../assets/img/slid2.jpg" alt="" class="Bag1">
+        <img src="../assets/img/slid2-knee.jpg" alt="" class="Bag1">
         <div class="TxtPos">
           <h1>Schedule a <br>Consultation Today</h1>
           <div><a href="tel:214-475-6078" class="btn-get-started scrollto pulse1">Call now 214-475-6078</a></div>
@@ -136,7 +136,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         
       </div>
       <div>
-        <img src="../assets/img/slid3.jpg" alt="" class="Bag1">
+        <img src="../assets/img/slid3-knee.jpg" alt="" class="Bag1">
         <div class="TxtPos">
           <h1>Be Free of Knee Pain.<br> Find lasting pain relief today</h1>
           <div><a href="tel:214-475-6078" class="btn-get-started scrollto pulse1">Call now 214-475-6078</a></div>
@@ -553,7 +553,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </section>
     <section class="BullPoi" id="Diagnosis">
       <div class="section-title">
-        <h2>Tests & Procedures to diagnose Brain Diseases</h2>
+        <!-- <h2>Tests & Procedures to diagnose Brain Diseases</h2> -->
+        <h2>Tests for Knee Pain Conditions</h2>
       </div>
       <div class="container">
         <div class="Bxdb"><p><span><i class="fa fa-dot-circle-o" aria-hidden="true"></i></span>CT scan</p></div>
