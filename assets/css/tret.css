@@ -55,6 +55,9 @@
 .pad40 p{
 	margin-bottom: 0px;
 }
+.padb40 ul{
+	padding-left: 20px;
+}
 @media(min-width: 1200px) and (max-width: 1500px){
 .lftHdr h1{
 	font-size: 33px;

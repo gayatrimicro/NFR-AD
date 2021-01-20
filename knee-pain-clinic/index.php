@@ -251,7 +251,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li class="bullet-checkmark">Baker’s Cyst</li>
                 <li class="bullet-checkmark">Iliotibial Band Syndrome</li>
                 <li class="bullet-checkmark">Lateral Patellar Compression Syndrome</li>
-                <li class="bullet-checkmark">Osteochondritis Dissecans</li>
+                <li class="bullet-checkmark"><a href="osteochondritis-dissecans" style="color: #000;">Osteochondritis Dissecans</a></li>
                 <li class="bullet-checkmark">Shin Splints</li>
                 <li class="bullet-checkmark">Knee Injury</li>
                 <li class="bullet-checkmark">Unstable Knee</li>
@@ -287,7 +287,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <li class="bullet-checkmark">Lateral Meniscus Syndrome</li>
                 <li class="bullet-checkmark">Medial Meniscus Syndrome</li>
                 <li class="bullet-checkmark">Tibial Eminence Spine Avulsions</li>
-                <li class="bullet-checkmark">Osteonecrosis of the Knee</li>
+                <li class="bullet-checkmark"><a href="avascular-necrosis-osteonecrosis" style="color: #000;">Osteonecrosis of the Knee</a></li>
                 <li class="bullet-checkmark">Knee Angular Deformities</li>
             </ul>
               <!-- <div class="btn-wrap">
