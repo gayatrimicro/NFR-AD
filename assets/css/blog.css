@@ -1,0 +1,31 @@
+.BlogBox img{
+	width: 100%;
+	height: 280px;
+}
+.BlogBox{
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	margin-bottom: 25px;
+}
+.BlogInd{
+	padding-top: 100px;
+	padding-bottom: 75px;
+}
+.pad15b{
+	padding: 30px 25px;
+}
+.pad15b h4{
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+.blog_banner{
+	width: 100%;
+	height: 400px;
+}
+.blog_banner img{
+	width: 100%;
+}
+@media(min-width: 1600px) and (max-width: 2560px){
+	.blog_banner{
+	height: 500px;
+}
+}

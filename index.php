@@ -96,6 +96,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </ul>
               </li> -->
               <li><a href="#Loccon">Our Locations</a></li>
+              <li><a href="blog">Blog</a></li>
 
             </ul>
           </nav><!-- .nav-menu -->
