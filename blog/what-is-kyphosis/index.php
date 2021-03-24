@@ -267,7 +267,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <div class="container" data-aos="fade-up">
         <div class="text-left">
           <p>If you or anyone you know is suffering from kyphosis, our expert providers at now find relief will take care of your health and help you recover.</p><br>
-          <p>Call <a href="tel:214-475-6078">214-475-6078</a> to <a href="">book an appointment</a> for an at home check-up.</p>
+          <p>Call <a href="tel:214-475-6078">214-475-6078</a> to <a href="">book an appointment</a> for a home check-up.</p>
         </div>
       </div>
     </section>
