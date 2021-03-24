@@ -96,6 +96,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
   <section class="BlogInd">
     <div class="container">
+
+      <div class="BlogBox">
+        <div class="row">
+          <div class="col-sm-4">
+            <img src="../assets/img/blog/k4.jpg" alt="img">
+          </div>
+          <div class="col-sm-8">
+            <div class="pad15b">
+              <h4>Kyphosis</h4>
+              <p>Kyphosis is excessive, forward rounding of the back. It could happen at any age but is most common in older women. <br>
+              Age-associated kyphosis is usually because of weakness in the spinal bones that causes them to compress or crack.</p>
+              <a href="what-is-kyphosis">Learn More &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div class="BlogBox">
         <div class="row">
           <div class="col-sm-4">
