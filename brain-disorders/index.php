@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </ul>
           </nav><!-- .nav-menu -->
 
-          <a href="tel:214-475-6078" class="get-started-btn scrollto"><span class="hid">Call Now  </span>214-475-6078</a>
+          <a href="tel:469-545-9983" class="get-started-btn scrollto"><span class="hid">Call Now  </span>469-545-9983</a>
         </div>
       </div>
 
@@ -123,14 +123,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="../assets/img/slid1.jpg" alt="" class="Bag1">
         <div class="TxtPos">
           <h1>Best Neurologist in Texas. <br>Traumatic Brain Injury Rehabilitation Available.</h1>
-          <div><a href="tel:214-475-6078" class="btn-get-started scrollto pulse1">Call now 214-475-6078</a></div>
+          <div><a href="tel:469-545-9983" class="btn-get-started scrollto pulse1">Call now 469-545-9983</a></div>
         </div>      
       </div>
       <div>
         <img src="../assets/img/slid2.jpg" alt="" class="Bag1">
         <div class="TxtPos">
           <h1>Schedule a <br>Consultation Today</h1>
-          <div><a href="tel:214-475-6078" class="btn-get-started scrollto pulse1">Call now 214-475-6078</a></div>
+          <div><a href="tel:469-545-9983" class="btn-get-started scrollto pulse1">Call now 469-545-9983</a></div>
         </div>
         
       </div>
@@ -138,7 +138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="../assets/img/slid3.jpg" alt="" class="Bag1">
         <div class="TxtPos">
           <h1>Conditions treated: <br>Brain Injuries, Brain Tumors, Parkinson's disease & more.</h1>
-          <div><a href="tel:214-475-6078" class="btn-get-started scrollto pulse1">Call now 214-475-6078</a></div>
+          <div><a href="tel:469-545-9983" class="btn-get-started scrollto pulse1">Call now 469-545-9983</a></div>
         </div>      
       </div>
 
@@ -516,7 +516,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h4>DR. DAVID L. MASEL, MD, FAANS, FACS</h4>
                 <span class="bordCer">Board Certified, Neurosurgery.</span>
                 <p>Neurosurgery includes the diagnosis & treatment of all disorders associated with the brain, spinal cord, cerebrovascular system, and the central & peripheral nervous systems. Therefore, its an extremely delicate surgical procedure and requires expert neurosurgeons.</p>
-                 <div class="text-left"><a href="tel:214-475-6078" class="Lern">214-475-6078</a></div>
+                 <div class="text-left"><a href="tel:469-545-9983" class="Lern">469-545-9983</a></div>
               </div>
             </div>
           </div>
@@ -556,9 +556,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <div class="PosBxTxt">
                 <h4>DR. AAMR HEREKAR</h4>
                 <span class="bordCer">Board Certified, neurologist.</span>
-                <p>Dr. Herekar and his team of expert neurologists, help the patient by identifying the root cause of neurological disorders such as back pain, epilepsy, sleep disorders, multiple sclerosis, dementia, neuropathy, Parkinson’s disease, stroke management and managing headaches/migraines.</p>
+                <p>Dr. Herekar and his team of expert neurologists, help the patient by identifying the root cause of neurological disorders such as back pain, epilepsy, sleep disorders, multiple sclerosis, dementia, neuropathy, Parkinson’s disease, stroke management and managing headaches/migraines.</p>                
                 <p>He is well versed in Transcranial Magnetic Stimulation (TMS), a revolutionary new therapy which uses MRI pulses to strengthen and enhance the neural networks which are dysfunctional in people with mental health issues such as - </p>
-                 <!-- <div class="text-left"><a href="tel:214-475-6078" class="Lern">214-475-6078</a></div> -->
+                 
                  <ul>
                    <li><p>Adolescent Depression</p></li>
                    <li><p>Autism Spectrum Disorder</p></li>
@@ -577,7 +577,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <li><p>Post Stroke Rehab</p></li>
             </ul>
             <br>
-             <p>He has studied the TMS and theta burst therapies from Harvard University. He currently owns and operates his own neurology clinic called Advanced Neurology Epilepsy and Sleep Center in El Paso, TX.</p>
+             <p>He has studied the TMS and theta burst therapies from Harvard University. He currently owns and operates his own neurology clinic called Advanced Neurology Epilepsy and Sleep Center in El Paso, TX.</p><br>
+             <div class="text-left"><a href="tel:469-545-9983" class="Lern">469-545-9983</a></div>
             <br><br>
             </div>
             <div class="UlProf">
@@ -606,7 +607,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <img src="../assets/img/doctor-banner.jpg" alt="doctor-banner">
         <div class="hetxt">          
           <h4>We're now seeing patients in our office.</h4>
-          <div><a href="tel:214-475-6078" class="Lern padLe">Schedule an Appointment</a></div>
+          <div><a href="tel:469-545-9983" class="Lern padLe">Schedule an Appointment</a></div>
         </div>        
       </div>
     </section>
@@ -726,25 +727,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Farmers Branch</h5>
-              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
+              <p><b>Phone : <a href="tel:469-545-9983">469-545-9983</a></b></p>
               <p>13988 Diplomat Drive,<br> Suite 100 Farmers Branch,<br> TX 75234</p>
-              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
+              <div><a href="tel:469-545-9983" class="Lern">Call Us</a></div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Fort Worth</h5>
-              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
+              <p><b>Phone : <a href="tel:469-545-9983">469-545-9983</a></b></p>
               <p>3600 W 7th Street,<br> Suite A Fort Worth,<br> TX 76107</p>
-              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
+              <div><a href="tel:469-545-9983" class="Lern">Call Us</a></div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Plano</h5>
-              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
+              <p><b>Phone : <a href="tel:469-545-9983">469-545-9983</a></b></p>
               <p>6001 Windhaven Pkwy, <br> Suite 210 Plano,<br> TX 75097</p>
-              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
+              <div><a href="tel:469-545-9983" class="Lern">Call Us</a></div>
             </div>
           </div>
         </div>
@@ -753,25 +754,25 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Midland</h5>
-              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
+              <p><b>Phone : <a href="tel:469-545-9983">469-545-9983</a></b></p>
               <p>4311 Andrews, <br> Highway Midland,<br> TX 79703</p>
-              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
+              <div><a href="tel:469-545-9983" class="Lern">Call Us</a></div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Ennis</h5>
-              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
+              <p><b>Phone : <a href="tel:469-545-9983">469-545-9983</a></b></p>
               <p>802 W Lampasas, <br> Street Ennis,<br> TX 75119</p>
-              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
+              <div><a href="tel:469-545-9983" class="Lern">Call Us</a></div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Lancaster</h5>
-              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
+              <p><b>Phone : <a href="tel:469-545-9983">469-545-9983</a></b></p>
               <p>2700 W Pleasant Run Road,<br> Suite 340 Lancaster,<br> TX 75146</p>
-              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
+              <div><a href="tel:469-545-9983" class="Lern">Call Us</a></div>
             </div>
           </div>
         </div>
@@ -780,9 +781,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-sm-4">
             <div class="BxLoc">
               <h5>Hillsboro</h5>  
-              <p><b>Phone : <a href="tel:214-475-6078">214-475-6078</a></b></p>
+              <p><b>Phone : <a href="tel:469-545-9983">469-545-9983</a></b></p>
               <p>117 Jane Lane, <br> Hillsboro,<br> TX 76645</p>
-              <div><a href="tel:214-475-6078" class="Lern">Call Us</a></div>
+              <div><a href="tel:469-545-9983" class="Lern">Call Us</a></div>
             </div>
           </div>
         </div>
@@ -1169,7 +1170,7 @@ It started out as a strange pain in my leg and slowly became debilitating. Could
               13988 Diplomat Drive, <br>
               Suite 100 Farmers Branch, <br>
               Texas 75234 <br><br>
-              <strong>Phone:</strong> <a href="tel:214-475-6078" class="Cwht">214-475-6078</a></p>
+              <strong>Phone:</strong> <a href="tel:469-545-9983" class="Cwht">469-545-9983</a></p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links marb0xs">
