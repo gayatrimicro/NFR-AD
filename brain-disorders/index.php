@@ -509,6 +509,47 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-sm-5">
             <div class="in_proBox">
               <div class="proboximg">
+                <img src="../assets/img/dav0.jpg" alt="dav0">
+                <div class="Pospst">NEUROSURGEON</div>
+              </div>
+              <div class="PosBxTxt">
+                <h4>DR. DAVID L. MASEL, MD, FAANS, FACS</h4>
+                <span class="bordCer">Board Certified, Neurosurgery.</span>
+                <p>Neurosurgery includes the diagnosis & treatment of all disorders associated with the brain, spinal cord, cerebrovascular system, and the central & peripheral nervous systems. Therefore, its an extremely delicate surgical procedure and requires expert neurosurgeons.</p>
+                 <div class="text-left"><a href="tel:214-475-6078" class="Lern">214-475-6078</a></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-7">
+            <div class="UlProf">
+              <ul>
+                <li>
+                  <h4>BOARD-CERTIFIED NEUROSURGEON</h4>
+                  <p>Dr. Masel is board certified in Neurosurgery.</p>
+                </li>
+                <li>
+                  <h4>PRESTIGIOUS AFFILIATIONS</h4>
+                  <p>Dr. Masel is affiliated with Baylor Scott & White Medical Center - Centennial</p>
+                </li>
+                <li>
+                  <h4>RECIPIENT OF CASTLE CONNOLLY REGIONAL TOP DOCTORS AWARD</h4>
+                  <p>Castle Connolly is America's trusted source for the identification of Top Doctors. Dr. Masel has received this prestigious award and recognition by their physician-led research team.</p>
+                  <img src="../assets/img/castle.png" alt="castle">
+                  <p class="Mart10">Be sure to receive extensive expert medical attention and care from Dr David Masel. Book an appointment today.</p>
+                </li>
+              </ul>
+            </div>
+          </div>
+      </div>
+      </div>      
+    </section>
+
+    <section class="pad360" id="profdr">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-5">
+            <div class="in_proBox">
+              <div class="proboximg">
                 <img src="../assets/img/dr-amar-herekar.jpg" style="width: 100%;" alt="dav0">
                 <div class="Pospst">NEUROLOGIST</div>
               </div>
