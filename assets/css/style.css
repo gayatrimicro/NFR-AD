@@ -2274,4 +2274,8 @@ input[type=checkbox]{
   background-color: #3b3636;
 }
 
+.pad50sec{
+  padding: 0px 50px;
+}
+
 

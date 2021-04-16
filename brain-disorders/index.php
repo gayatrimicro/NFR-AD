@@ -509,33 +509,49 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="col-sm-5">
             <div class="in_proBox">
               <div class="proboximg">
-                <img src="../assets/img/dav0.jpg" alt="dav0">
-                <div class="Pospst">NEUROSURGEON</div>
+                <img src="../assets/img/dr-amar-herekar.jpg" style="width: 100%;" alt="dav0">
+                <div class="Pospst">NEUROLOGIST</div>
               </div>
               <div class="PosBxTxt">
-                <h4>DR. DAVID L. MASEL, MD, FAANS, FACS</h4>
-                <span class="bordCer">Board Certified, Neurosurgery.</span>
-                <p>Neurosurgery includes the diagnosis & treatment of all disorders associated with the brain, spinal cord, cerebrovascular system, and the central & peripheral nervous systems. Therefore, its an extremely delicate surgical procedure and requires expert neurosurgeons.</p>
-                 <div class="text-left"><a href="tel:214-475-6078" class="Lern">214-475-6078</a></div>
+                <h4>DR. AAMR HEREKAR</h4>
+                <span class="bordCer">Board Certified, neurologist.</span>
+                <p>Dr. Herekar and his team of expert neurologists, help the patient by identifying the root cause of neurological disorders such as back pain, epilepsy, sleep disorders, multiple sclerosis, dementia, neuropathy, Parkinson’s disease, stroke management and managing headaches/migraines.</p>
+                <p>He is well versed in Transcranial Magnetic Stimulation (TMS), a revolutionary new therapy which uses MRI pulses to strengthen and enhance the neural networks which are dysfunctional in people with mental health issues such as - </p>
+                 <!-- <div class="text-left"><a href="tel:214-475-6078" class="Lern">214-475-6078</a></div> -->
+                 <ul>
+                   <li><p>Adolescent Depression</p></li>
+                   <li><p>Autism Spectrum Disorder</p></li>
+                   <li><p>Bipolar Depression</p></li>
+                   <li><p>Cognitive Decline</p></li>                   
+                </ul>                 
               </div>
             </div>
           </div>
           <div class="col-sm-7">
+            <div class="pad50sec">
+              <ul>
+               <li><p>Obsessive-Compulsive Disorder (OCD)</p></li>
+               <li><p>Post-Traumatic Stress Disorder (PTSD)</p></li>
+               <li><p>Sleep Disorders</p></li>
+               <li><p>Post Stroke Rehab</p></li>
+            </ul>
+            <br>
+             <p>He has studied the TMS and theta burst therapies from Harvard University. He currently owns and operates his own neurology clinic called Advanced Neurology Epilepsy and Sleep Center in El Paso, TX.</p>
+            <br><br>
+            </div>
             <div class="UlProf">
               <ul>
                 <li>
-                  <h4>BOARD-CERTIFIED NEUROSURGEON</h4>
-                  <p>Dr. Masel is board certified in Neurosurgery.</p>
+                  <h4>BOARD-CERTIFIED NEUROLOGIST</h4>
+                  <p>Dr. Aamr Herekar, MD is board certified in Neurology, Psychiatry Epilepsy and Sleep Medicine.</p>
                 </li>
                 <li>
                   <h4>PRESTIGIOUS AFFILIATIONS</h4>
-                  <p>Dr. Masel is affiliated with Baylor Scott & White Medical Center - Centennial</p>
+                  <p>Dr. Herekar is affiliated with The Hospitals Of Providence Transmountain, Ascension Via Christi St. Francis Hospital, Wesley Healthcare Center, and Las Palmas Medical Center.</p>
                 </li>
                 <li>
-                  <h4>RECIPIENT OF CASTLE CONNOLLY REGIONAL TOP DOCTORS AWARD</h4>
-                  <p>Castle Connolly is America's trusted source for the identification of Top Doctors. Dr. Masel has received this prestigious award and recognition by their physician-led research team.</p>
-                  <img src="../assets/img/castle.png" alt="castle">
-                  <p class="Mart10">Be sure to receive extensive expert medical attention and care from Dr David Masel. Book an appointment today.</p>
+                  <h4>EDUCATION</h4>
+                  <p>Dr. Herekar has been practicing as a neurologist for more than 15 years and received his medical degree from Dow University of Health Sciences.</p>                  
                 </li>
               </ul>
             </div>
